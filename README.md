@@ -1,3 +1,3 @@
-# Chatbot Python - Projeto Final de Python 2022.1
+# Bot Telegram
 
-Repositório criado para salvar meu projeto final de python da faculdade.
+🤖 Link do bot (portifólio): http://t.me/AssistenteVirtualSaudeBot

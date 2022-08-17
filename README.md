@@ -13,10 +13,6 @@ Repositório criado para armazenar arquivos para execução do bot de assistente
 <p>Gabriel Fontes</p>
 <hr>
 
-Demonstração da funcionalidade do bot de consulta médica no Telegram.
-
-
-
 2022 - Projeto Final de Python (Laboratório de Programação)
 
 

@@ -14,7 +14,8 @@ Repositório criado para armazenar arquivos para execução do bot de assistente
 <hr>
 
 <p>Demonstração do Bot no Telegram mostrando a tela inicial com as opções disponíveis</p>
-![Screenshot_20220817-152416](https://user-images.githubusercontent.com/94319702/187194769-f40a05d4-dbaa-4dd7-b9f7-eba6bafbea68.png)
+
+![Screenshot_20220817-152416]
 
 
 2022 - Projeto Final de Python (Laboratório de Programação)

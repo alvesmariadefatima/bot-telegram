@@ -13,6 +13,8 @@ Repositório criado para armazenar arquivos para execução do bot de assistente
 <p>Gabriel Fontes</p>
 <hr>
 
+#vitrinedev
+
 2022 - Projeto Final de Python (Laboratório de Programação)
 
 
